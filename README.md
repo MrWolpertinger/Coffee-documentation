@@ -1,2 +1,2 @@
 # Coffee documentation
- a pdf of my coffe exploits
+ a pdf of people's coffe exploits
